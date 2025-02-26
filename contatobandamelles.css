@@ -216,6 +216,7 @@ li {
 #logobanda {
     position: relative;
     width: 70px;
+    text-align: center;
     align-items: center;
     right:  130px;
     bottom: 60px;
